@@ -1,0 +1,10 @@
+.terraform/
+*.backup
+*.hcl
+*.tfstate
+*.out
+*.info
+*.token
+azure-key*
+aws-key*
+gcp-key*
